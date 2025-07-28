@@ -1,0 +1,6 @@
+/* src/index.css - clean it up */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #82aad1, #e6ebf1);
+}
